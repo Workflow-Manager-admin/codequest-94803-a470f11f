@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/codequest-94803-a470f11f/devarena_backend"
+}
